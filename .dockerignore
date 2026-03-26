@@ -1,0 +1,10 @@
+outputs/
+temp_image.png
+__pycache__/
+*.pyc
+.git
+.gitignore
+README.md
+.env
+venv/
+env/
